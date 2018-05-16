@@ -5,3 +5,12 @@ div#skipnav{
 	border: 2px solid black;
 	padding: 1em; 
 }
+
+p#alert{
+	color:blue;
+	font-weight:bold;
+	background;#FFFF66;/*yellow*/
+	border: 2px solid black; 
+	padding: 1em;
+	clear:left 
+}
